@@ -1,2 +1,2 @@
 # hw01
-node.js
+Usage examples are in the images folder
